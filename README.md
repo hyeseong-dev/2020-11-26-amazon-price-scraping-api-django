@@ -9,9 +9,6 @@
 <img src="https://user-images.githubusercontent.com/57933835/100333699-416cdf80-3016-11eb-9783-aa8b1d0e22b1.png">
 
 #### simple_tracker.py
-<img src="https://user-images.githubusercontent.com/57933835/99924522-0ea8ba00-2d7e-11eb-8d29-197e1366e819.png">
-
-#### simple_tracker.py
 <img src="https://user-images.githubusercontent.com/57933835/100337761-251f7180-301b-11eb-9536-9acd3f54c37c.png">
 
 #### Run Chrome Browser
@@ -27,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/57933835/100337600-f0abb580-301a-11eb-82d8-324e73b6e3e2.png">
 
 #### Save product info as Json file 
-<img src="https://user-images.githubusercontent.com/57933835/100337600-f0abb580-301a-11eb-82d8-324e73b6e3e2.png">
+<img src="https://user-images.githubusercontent.com/57933835/100338584-1dac9800-301c-11eb-9a8c-be6827a06778.png">
 
 
 
