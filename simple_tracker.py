@@ -189,7 +189,6 @@ class AmazonAPI:
         return product_link[product_link.find('/dp/') + 4:product_link.find('/ref')]
 
 
-
 if __name__ == '__main__':
     am = AmazonAPI(NAME, FILTERS, BASE_URL, CURRENCY) # AmazonAPI의 인스턴스인 am를 생성함 
     data = am.run()                                   # run() 메서드로 로직을 돌리고 그 결과를 data 변수에 저장
