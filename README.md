@@ -43,10 +43,9 @@ https://chromedriver.chromium.org/downloads
 
 
 ## 기능 
-1. 사용자가 원하는 정보를 입력하여 아마존 
-2. 크롬 드라이버의 시크릿 모드, 백그라운드에서 브라우저실행
+1. 원하는 제품에 대한 링크를 raw resource를 웹사이트로부터 가져옵니다 
+2. 가져온 raw resource를 가공하여 각 제품에 대한 개별 link와 그에 연관된 제품 정보와 매칭시킵니다.
 3. json 파일로 수집한 데이터를 저장함
-
 
 
 ## Q&A
